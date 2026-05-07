@@ -114,18 +114,10 @@ manager.searchByDisease("Cardiac");     // Partial match search
 ##  Known Notes
 
 - The app uses the **cross-platform (Metal) Look & Feel** to ensure buttons and colours render correctly on all operating systems including Windows.
-- All 10 sample patients are pre-loaded on startup for demonstration purposes.
-
-
-
-## 📄 License
-
-This project is intended for **educational purposes** as part of a Java programming course assignment.
+- All 10 sample patients are pre-loaded on startup for demonstration purposes. 
 
 ---
 
 ## 👩‍💻 Author
 
 **Majushree**  
-Java Programming — Modules 1, 2 & 3  
-*Hospital Patient Record Manager — Swing Project*
